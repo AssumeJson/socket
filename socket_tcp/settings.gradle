@@ -1,0 +1,3 @@
+rootProject.name = 'socket_tcp'
+includeFlat 'socket_udp'
+

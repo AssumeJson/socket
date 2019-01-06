@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket_tcp.iml" filepath="$PROJECT_DIR$/.idea/modules/socket_tcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket_tcp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/socket_tcp_main.iml" group="socket_tcp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket_tcp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/socket_tcp_test.iml" group="socket_tcp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket_udp.iml" filepath="$PROJECT_DIR$/.idea/modules/socket_udp.iml" group="socket_udp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1586765609/socket_udp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1586765609/socket_udp_main.iml" group="socket_udp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1586765609/socket_udp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1586765609/socket_udp_test.iml" group="socket_udp" />
+    </modules>
+  </component>
+</project>
